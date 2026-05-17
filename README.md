@@ -1,0 +1,2 @@
+# Real_Time_Object_Detection_With_Camera_Tracking_Using_Servos_Pi4_YOLO
+The system successfully detects the object specified by the user and keeps it centered in the camera frame. Pan and tilt mechanisms of the MG966R servo motors responds to the movement of the tracked object. Terminal  continuously tracks how far the detected location of the center of the object from the centre of the video frame.
